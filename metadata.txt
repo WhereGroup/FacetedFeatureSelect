@@ -3,7 +3,7 @@ name=Faceted Feature Select
 qgisMinimumVersion=3.16
 description=User-definable faceted feature selection form. Experimental work-in-progress prototype.
 version=0.1
-author=WhereGroup GmbH / Johannes Kröger, Paul Schmidt
+author=WhereGroup GmbH, Johannes Kröger, Paul Schmidt
 email=johannes.kroeger@wheregroup.com, paul.schmidt@wheregroup.com
 
 about=We are playing around with different approaches to provide users with a graphical way of setting up a custom form to filter and select features by multiple, potentially hierarchical or mixed criteria.
